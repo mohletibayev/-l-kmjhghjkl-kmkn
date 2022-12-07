@@ -1,0 +1,124 @@
+.container {
+    border: 1px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.header {
+    border: 1px;
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card {
+width: 33%;
+}
+.header i {
+    color: white;
+}
+.content {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+p {
+    justify-content: center;
+}
+body>p {
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box {
+    border: 1px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.head {
+    border: 1px;
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.head-title{
+    display: flex;
+}
+.kard {
+width: 33%;
+}
+.head i {
+    color: white;
+}
+.cont {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+p {
+    justify-content: center;
+}
+body>p {
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+/*
+.cont {
+    border: 1px;
+justify-content: space-around;
+ }
+ .content p {
+     text-align: justify;
+ }
+ p {
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ .header i {
+     border: 1px;
+     color: white;
+     background-color: blue;
+     width: 50px;
+     height: 50px;
+     border-radius: 10px;
+     justify-content: center;
+     font-size: large;
+ }
+ b {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: medium;
+ }
+ .box {
+    border: 1px;
+    justify-content: space-around;
+
+ }
+ .content p {
+     text-align: justify;
+ }
+ .header i {
+     border: 1px;
+     color: white;
+     background-color: blue;
+     width: 50px;
+     height: 50px;
+     border-radius: 10px;
+     justify-content: center;
+     font-size: large;
+ }
+ b {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: medium;
+ }
